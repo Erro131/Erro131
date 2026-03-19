@@ -40,5 +40,5 @@ Estudante de **Sistemas de Informação** focado em transformar problemas em sol
 
 Seja para um projeto colaborativo ou uma oportunidade de estágio, sinta-se à vontade para entrar em contato!
 
-- **Email:** marcoscisou@gmail.com
+- **Email:** marcosclsou@gmail.com
 - **Localização:** Contagem, MG
