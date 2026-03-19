@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos de Castro! 👋
 
-Estudante de **Sistemas de Informação** focado em transformar problemas em soluções através do código. Atualmente, busco minha primeira oportunidade como estagiário em TI para aplicar meus conhecimentos em desenvolvimento e análise de dados.
+Estudante de **Sistemas de Informação** focado em desenvolvimento de software e apaixonado por resolver problemas através da tecnologia. [cite_start]Atualmente, busco minha primeira oportunidade como estagiário em TI[cite: 14, 16].
 
 ---
 
@@ -16,29 +16,28 @@ Estudante de **Sistemas de Informação** focado em transformar problemas em sol
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<br/>
+---
 
-**Produtividade e Nuvem:**
-<div style="display: inline_block">
-  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+### 📊 Estatísticas e Atividades
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Erro131&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erro131&layout=compact&langs_count=7&theme=dracula" />
 </div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Cursando **Sistemas de Informação** no Cotemig (Previsão de formação: 2026).
-- 💡 Grande interesse em **Desenvolvimento Back-End** e gerenciamento de **Bancos de Dados**.
-- 🛠️ Experiência acadêmica com lógica de programação, POO (C#) e migração de dados (MongoDB/Supabase).
-- 🗣️ Comunicação assertiva, trabalho em equipe e aprendizado contínuo.
+- [cite_start]🎓 Cursando **Sistemas de Informação** no Cotemig (Previsão: 2026)[cite: 7, 8].
+- 💡 Grande interesse em **Desenvolvimento Back-End** e **Bancos de Dados**.
+- [cite_start]🛠️ Focado em lógica de programação e arquitetura de sistemas[cite: 24].
+- [cite_start]🗣️ Comunicação assertiva, adaptabilidade e trabalho em equipe[cite: 13, 26, 29].
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-Seja para um projeto colaborativo ou uma oportunidade de estágio, sinta-se à vontade para entrar em contato!
-
-- **Email:** marcosclsou@gmail.com
-- **Localização:** Contagem, MG
+- [cite_start]**Email:** marcoscisou@gmail.com [cite: 4]
+- **LinkedIn:** [Adicione seu link aqui]
+- [cite_start]**Localização:** Contagem, MG [cite: 3]
