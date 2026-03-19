@@ -22,4 +22,23 @@ Estudante de **Sistemas de Informação** focado em transformar problemas em sol
 <div style="display: inline_block">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="Google_Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img align="center" alt="Excel" src="
+  <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</div>
+
+---
+
+### 👨‍💻 Sobre Mim
+
+- 🎓 Cursando **Sistemas de Informação** no Cotemig (Previsão de formação: 2026).
+- 💡 Grande interesse em **Desenvolvimento Back-End** e gerenciamento de **Bancos de Dados**.
+- 🛠️ Experiência acadêmica com lógica de programação, POO (C#) e migração de dados (MongoDB/Supabase).
+- 🗣️ Comunicação assertiva, trabalho em equipe e aprendizado contínuo.
+
+---
+
+### 📫 Vamos nos conectar?
+
+Seja para um projeto colaborativo ou uma oportunidade de estágio, sinta-se à vontade para entrar em contato!
+
+- **Email:** marcoscisou@gmail.com
+- **Localização:** Contagem, MG
