@@ -28,9 +28,9 @@ Estudante de **Sistemas de Informação** no Cotemig, focado em desenvolvimento 
 
 ### 👨‍💻 Sobre Mim
 
-- 🎓 Cursando **Sistemas de Informação** no Cotemig (Previsão: 2026).
+- 🎓 Cursando **Sistemas de Informação** no Cotemig (Começo : 2026).
 - 💡 Grande interesse em **Desenvolvimento Back-End** e **Bancos de Dados**.
-- 🛠️ Experiência acadêmica com lógica de programação, POO (C#) e bancos de dados SQL/NoSQL.
+- 🛠️ Experiência acadêmica com lógica de programação, POO (C#) e bancos de dados SQL.
 - 🗣️ Comunicação assertiva, adaptabilidade e trabalho em equipe.
 
 ---
